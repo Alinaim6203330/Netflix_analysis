@@ -1,7 +1,7 @@
 # Analyse du Catalogue Netflix: Évaluation Finale du Cours Programation 2
 ## 1- But du projet
-*Mise en situation :* Une entreprise de streaming nous a approché pour faire une étude sur le contenu du catalogue de Netflix, le plus gros joueur sur le marché. Notre mandat consiste a analyser ce catalaogue afin d'avoir une vue globale du type de contenu, de son origine, des durées et du genre dans le but d'établir une stratégie dans la conception de leur propre catalogue. pour ce faire on doit répondre aux questions suivantes:
-- Quelle est la proportion de film par rapport au series?
+*Mise en situation :* Une entreprise de streaming nous a approché pour faire une étude sur le contenu du catalogue de Netflix, le plus gros joueur sur le marché. Notre mandat consiste à analyser ce catalaogue afin d'avoir une vue globale du type de contenu, de son origine, des durées et du genre dans le but d'établir une stratégie dans la conception de leur propre catalogue. pour ce faire on doit répondre aux questions suivantes:
+- Quelle est la proportion de film par rapport au séries?
 - Quels sont les principaux pays producteur de contenus? 
 - Quelle est l'origine géographique des contenus?
 - Quelles sont les années de création les plus populaires?
@@ -40,18 +40,22 @@ Le catalogue de Netflix est constitué principalement de films (70%) par rapport
 ###  Les années de création les plus populaires
 ![image](https://user-images.githubusercontent.com/116452605/197362864-546a7465-40d8-4349-affe-a57519020f32.png)
 
-on constate que le volume des plus recentes productions est plus éleve ce qui est normal c'est ce qui permet a Netflix de garder sa compétitivité
+On constate que le volume des plus récentes productions est plus élevé ce qui est normal, c'est ce qui permet à Netflix de garder sa compétitivité.
+
 ### La proportion du nombre de saisons par série
 ![image](https://user-images.githubusercontent.com/116452605/197362984-93501dee-7d2e-484a-b5aa-8fe37781a4cf.png)
 
+On remarque que la grande majorité de serie (67%) ne depassent pas une saison, ceci dit 6% ont une longévité remarquable depassant les 5 saisons.
 
 ### La distribution de la durée des films
 ![image](https://user-images.githubusercontent.com/116452605/197362990-3d10b879-ae63-496f-88b0-90be0a1dad89.png)
 
+On remarque que la distribution est normal avec une médiane qui se situe vers les 100 min par films.
 
 ### Les genres les plus populaire
 ![image](https://user-images.githubusercontent.com/116452605/197363029-6192688e-eb02-467e-b7c3-65c0bf357bb4.png)
 
+Le genre Drama vient en première position suivi de comédie, action&aventure. Les documentaires se classent à la quatrième position.
 
 ## Conclusion
 Nous avons répondu à toutes les questions soulevées afin de satisfaire le mandat de l'entreprise. Les analyses effectuées permettront de prendre des décisions éclairées quant à la stratégie appropriée pour la conception de leur propre catalogue.
