@@ -1,6 +1,6 @@
 # Analyse du Catalogue Netflix: Évaluation Finale du Cours Programation 2
 ## 1- But du projet
-*Mise en situation :* Une entreprise de streaming nous a approché pour faire une étude sur le contenu du catalogue de Netflix, le plus gros joueur sur le marché. Notre mandat consiste à analyser ce catalaogue afin d'avoir une vue globale du type de contenu, de son origine, des durées et du genre dans le but d'établir une stratégie dans la conception de leur propre catalogue. pour ce faire on doit répondre aux questions suivantes:
+*Mise en situation :* Une entreprise de streaming nous a approché pour faire une étude sur le contenu du catalogue de Netflix, le plus gros joueur sur le marché. Notre mandat consiste à analyser ce catalaogue afin d'avoir une vue globale de son type de contenu, de son origine, des durées et du genre dans le but d'établir une stratégie dans la conception de leur propre catalogue. pour ce faire on doit répondre aux questions suivantes:
 - Quelle est la proportion de film par rapport au séries?
 - Quels sont les principaux pays producteur de contenus? 
 - Quelle est l'origine géographique des contenus?
@@ -8,7 +8,7 @@
 - Quelle est la distribution de la durée des films?
 - Quels sont les genres les plus populaire?
 
-## 2- Description du jeu de donnees (Dataset)
+## 2- Description du jeu de données (Dataset)
 ### source:  https://www.kaggle.com/datasets/shivamb/netflix-shows
 ### Description du dataset
 Netflix est l'une des plateformes de streaming multimédia et vidéo les plus populaires. Ils ont plus de 8000 films ou émissions de télévision disponibles sur leur plate-forme, à la mi-2021, ils ont plus de 200 millions d'abonnés dans le monde. Cet ensemble de données tabulaires se compose de listes de tous les films et émissions de télévision disponibles sur Netflix, ainsi que de détails tels que la distribution, les réalisateurs, les notes, l'année de sortie, la durée, etc.
@@ -20,7 +20,7 @@ Netflix est l'une des plateformes de streaming multimédia et vidéo les plus po
 - **cast** : Acteurs impliqués dans le film/série
 - **country** : Pays où le film/série a été produit
 - **date_added** : Date à laquelle il a été ajouté sur Netflix
-- **release_year** : Année de sortie réelle du déménagement / spectacle
+- **release_year** : Année de sortie réelle du film / spectacle
 - **rating** : Classement TV du film / de l'émission
 - **duration** : Durée totale - en minutes ou en nombre de saisons
 - **listed_in** : Genres auxquels appartient le film ou la série
