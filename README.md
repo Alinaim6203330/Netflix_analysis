@@ -1,4 +1,4 @@
-# Analyse du Catalogue Netflix: Évaluation Finale du Cours Programation 2
+# Analyse du Catalogue Netflix
 ## 1- But du projet
 *Mise en situation :* Une entreprise de streaming nous a approché pour faire une étude sur le contenu du catalogue de Netflix, le plus gros joueur sur le marché. Notre mandat consiste à analyser ce catalaogue afin d'avoir une vue globale du type de contenu, de son origine, des durées et du genre dans le but d'établir une stratégie dans la conception de leur propre catalogue. pour ce faire on doit répondre aux questions suivantes:
 - Quelle est la proportion de film par rapport au séries?
